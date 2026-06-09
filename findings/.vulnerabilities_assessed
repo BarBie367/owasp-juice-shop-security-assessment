@@ -1,0 +1,12 @@
+Vulnerabilities Assessed :
+
+- Miscellaneous 
+- Security Misconfiguration 
+- Improper Input Validation 
+- Injection SQL 
+- Injection 
+- Cross-Site Scripting (XSS) 
+- Cryptographic Issues 
+- Observability Failures 
+- Broken Access Control 
+- Sensitive Data Exposure
