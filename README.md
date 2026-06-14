@@ -6,14 +6,14 @@ Overview
 
 This project documents a web application security assessment performed against OWASP Juice Shop using Burp Suite and Firefox. The goal was to identify, analyze, and document common web application vulnerabilities in a controlled learning environment.
 
-Objectives
+- Objectives
 Intercept and analyze HTTP requests
 Identify security vulnerabilities
 Understand common web application attack vectors
 Document findings and remediation recommendations
 Practice web application security testing techniques
 
-Environment
+- Environment
 OWASP Juice Shop
 Burp Suite Community Edition
 Firefox
@@ -21,7 +21,7 @@ exiftool
 docker
 Kali Linux
 
-Vulnerabilities Assessed
+- Vulnerabilities Assessed
 Miscellaneous
 Security Misconfiguration
 Improper Input Validation
@@ -33,7 +33,7 @@ Observability Failures
 Broken Access Control
 Sensitive Data Exposure
 
-Methodology
+- Methodology
 Install Foxy Proxy and certificates.
 Configured browser proxy through Burp Suite.
 Intercepted and analyzed application traffic.
@@ -41,12 +41,12 @@ Tested application functionality for security weaknesses.
 Documented identified vulnerabilities.
 Provided remediation recommendations.
 
-Repository Structure
+- Repository Structure
 /findings – Detailed vulnerability reports
 /screenshots – Evidence and screenshots
 /report – Security assessment report
 
-Skills Demonstrated
+- Skills Demonstrated
 Web Application Security Testing
 Burp Suite
 HTTP Request Analysis
