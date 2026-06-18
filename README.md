@@ -25,7 +25,6 @@ This project documents a web application security assessment performed against O
   - Miscellaneous
   - Security Misconfiguration
   - Improper Input Validation
-  - Injection
   - SQL Injection
   - Cross-Site Scripting (XSS)
   - Cryptographic Issues
