@@ -1,4 +1,5 @@
 # OWASP Juice Shop Security Assessment
+![OWASP Juice Shop](owasp_overview.jpg)
 Security assessment of OWASP Juice Shop using Burp Suite. Demonstrates identification, exploitation, and documentation of common web application vulnerabilities.
 
 OWASP Juice Shop Security Assessment
