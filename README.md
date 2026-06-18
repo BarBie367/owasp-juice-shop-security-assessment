@@ -27,7 +27,6 @@ This project documents a web application security assessment performed against O
   - Improper Input Validation
   - SQL Injection
   - Cross-Site Scripting (XSS)
-  - Cryptographic Issues
   - Observability Failures
   - Broken Access Control
   - Sensitive Data Exposure
