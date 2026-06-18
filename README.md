@@ -37,6 +37,7 @@ This project documents a web application security assessment performed against O
 
 ![Security Misconfiguration](screenshots/repetitive_registration/repetitive_registration_password_not_match.jpg)
 
+
   - SQL Injection
 ![SQL Injection](screenshots/admin_login/login_admin_sql_s.jpg)
 ![SQL Injection](screenshots/admin_login/login_admin_solved.jpg)
