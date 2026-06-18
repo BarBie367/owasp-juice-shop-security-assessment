@@ -35,7 +35,6 @@ This project documents a web application security assessment performed against O
  ![Security Misconfiguration](screenshots/missing_encoding/missing_encoding_added.jpg)
  ![Security Misconfiguration](screenshots/missing_encoding/missing_encoding_cat_shown.jpg)
 
- ![Security Misconfiguration](screenshots/repetitive_registration/repetitive_registration.jpg)
 ![Security Misconfiguration](screenshots/repetitive_registration/repetitive_registration_password_not_match.jpg)
 
   - SQL Injection
