@@ -21,7 +21,8 @@ This project documents a web application security assessment performed against O
   - docker
   - Kali Linux
 
-- Vulnerabilities Assessed
+- Vulnerabilities Assessed:
+  
   - Miscellaneous
  ![Misscellaneous](screenshots/score_board/beautifyer_scoreBoard_found.jpg)
  ![Misscellaneous](screenshots/score_board/juice_shop_scoreboard.jpg)
