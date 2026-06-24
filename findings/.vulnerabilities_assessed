@@ -5,7 +5,6 @@ Vulnerabilities Assessed :
 - Improper Input Validation 
 - SQL Injection 
 - Cross-Site Scripting (XSS) 
-- Cryptographic Issues 
 - Observability Failures 
 - Broken Access Control 
 - Sensitive Data Exposure
